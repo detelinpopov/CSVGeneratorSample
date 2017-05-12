@@ -1,0 +1,5 @@
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Core\bin\Debug\CSVGenerator.Core.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Core\bin\Debug\CSVGenerator.Core.pdb
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Core\obj\Debug\CSVGenerator.Core.csprojResolveAssemblyReference.cache
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Core\obj\Debug\CSVGenerator.Core.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Core\obj\Debug\CSVGenerator.Core.pdb

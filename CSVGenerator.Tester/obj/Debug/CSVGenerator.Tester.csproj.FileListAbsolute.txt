@@ -1,0 +1,16 @@
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\CSVGenerator.Tester.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\CSVGenerator.Tester.pdb
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\CSVGenerator.Core.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\nunit.framework.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\CSVGenerator.Core.pdb
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\bin\Debug\nunit.framework.xml
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\obj\Debug\CSVGenerator.Tester.csprojResolveAssemblyReference.cache
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\obj\Debug\CSVGenerator.Tester.dll
+c:\users\devadmin\documents\visual studio 2017\Projects\CSVGeneratorSample\CSVGenerator.Tester\obj\Debug\CSVGenerator.Tester.pdb
